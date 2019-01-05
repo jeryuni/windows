@@ -1,8 +1,12 @@
-- curl.exe
-    + https://curl.haxx.se/download.html#Win32
+## Chocolatey
+- https://chocolatey.org
+- choco install [util]
+    + curl.exe
+    + sed.exe
+    + wget.exe
 
-- nircmdc.exe
-    + http://www.nirsoft.net/utils/nircmd.html
-
-- sed.exe
-    + http://gnuwin32.sourceforge.net/packages/sed.htm
+## NirSoft
+- http://www.nirsoft.net
+    + nircmdc.exe
+	    - http://www.nirsoft.net/utils/nircmd.html
+        - http://www.nirsoft.net/utils/nircmd.zip
